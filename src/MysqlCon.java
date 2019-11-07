@@ -8,6 +8,8 @@ import org.json.simple.*;
 
 public class MysqlCon
 {  
+
+	//Added comment1
 	public Connection getMySQLconnnection() throws Exception 
 	{
 		FileReader reader=new FileReader("db.properties");  
