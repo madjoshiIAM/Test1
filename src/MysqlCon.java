@@ -12,6 +12,7 @@ public class MysqlCon
 	//Added comment1
 	//Added comment2
 	//Added comment3
+	//Added comment4
 	public Connection getMySQLconnnection() throws Exception 
 	{
 		FileReader reader=new FileReader("db.properties");  
